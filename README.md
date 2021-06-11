@@ -7,8 +7,8 @@
 
 # Table of Content
 | <!-- -->                         | <!-- -->                         |
-| -------------------------------- | -------------------------------- |
 
+| -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
 | [MLOps Books](#mlops-books) | [MLOps Articles](#mlops-articles) |
 | [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) | 
