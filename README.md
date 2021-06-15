@@ -24,15 +24,15 @@
 # MLOps Core
 
 1. [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
-1. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
+1. [MLOps SIG Specification](https://{:target="_blank"}/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md){:target="_blank"}
 1. [ML in Production](http://mlinproduction.com/)
-1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
+1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning){:target="_blank"}
 1. [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 1. [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 1. [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 1. [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
 1. [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
-1. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
+1. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops){:target="_blank"}
 1. [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
 1. [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
 2. [ML full Stack preparation](https://www.confetti.ai/)
@@ -41,7 +41,7 @@
 # MLOps Communities
 
 1. [MLOps.community](https://mlops.community/)
-1. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops)
+1. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops){:target="_blank"}
 1. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
 1. [DataTalks.Club](https://datatalks.club/)
 1. [Synthetic Data Community](https://syntheticdata.community/)
@@ -78,14 +78,14 @@
 
 1. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
 1. [What is MLOps? NVIDIA Blog](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
-1. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec)
+1. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec){:target="_blank"}
 1. [The 2021 State of Enterprise Machine Learning](https://info.algorithmia.com/tt-state-of-ml-2021) | State of Enterprise ML 2020: [PDF](https://info.algorithmia.com/hubfs/2019/Whitepapers/The-State-of-Enterprise-ML-2020/Algorithmia_2020_State_of_Enterprise_ML.pdf) and [Interactive](https://algorithmia.com/state-of-ml)
 1. [Organizing machine learning projects: project management guidelines.](https://www.jeremyjordan.me/ml-projects-guide/)
 1. [Rules for ML Project (Best practices)](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 1. [ML Pipeline Template](https://www.agilestacks.com/tutorials/ml-pipelines)
 1. [Data Science Project Structure](https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
-1. [Reproducible ML](https://github.com/cmawer/reproducible-model)
-1. [ML project template facilitating both research and production phases.](https://github.com/visenger/ml-project-template)
+1. [Reproducible ML](https://github.com/cmawer/reproducible-model){:target="_blank"}
+1. [ML project template facilitating both research and production phases.](https://github.com/visenger/ml-project-template){:target="_blank"}
 1. [Machine learning requires a fundamentally different deployment approach. As organizations embrace machine learning, the need for new deployment tools and strategies grows.](https://www.oreilly.com/radar/machine-learning-requires-a-fundamentally-different-deployment-approach/)
 1. [Introducting Flyte: A Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
 1. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
@@ -103,31 +103,31 @@
 1. [Forbes: The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/#72f04ed04698)
 1. [Cognilytica Report "ML Model Management and Operations 2020 (MLOps)"](https://www.cognilytica.com/2020/03/03/ml-model-management-and-operations-2020-mlops/) 
 1. [Introducing Cloud AI Platform Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines)
-1. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md)
+1. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md){:target="_blank"}
 1. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
-1. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
+1. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production){:target="_blank"}
 1. [Machine Learning Experiment Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
 1. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-1. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
+1. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps){:target="_blank"}
 1. [Monitoring ML pipelines](https://intothedepthsofdataengineering.wordpress.com/2020/02/13/monitoring-ml-pipelines/)
-1. [Deployment & Explainability of Machine Learning COVID-19 Solutions at Scale with Seldon Core and Alibi](https://github.com/axsaucedo/seldon-core/tree/corona_research_exploration/examples/models/research_paper_classification)
+1. [Deployment & Explainability of Machine Learning COVID-19 Solutions at Scale with Seldon Core and Alibi](https://github.com/axsaucedo/seldon-core/tree/corona_research_exploration/examples/models/research_paper_classification){:target="_blank"}
 1. [Demystifying AI Infrastructure](https://www.intel.com/content/www/us/en/intel-capital/news/story.html?id=a0F1I00000BNTXPUA5#/type=All/page=0/term=/tags=)
 1. [Organizing machine learning projects: project management guidelines.](https://www.jeremyjordan.me/ml-projects-guide/)
-1. [The Checklist for Machine Learning Projects (from Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow")](https://github.com/visenger/handson-ml/blob/master/ml-project-checklist.md)
+1. [The Checklist for Machine Learning Projects (from Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow")](https://github.com/visenger/handson-ml/blob/master/ml-project-checklist.md){:target="_blank"}
 1. [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
 1. [MLOps: not as Boring as it Sounds](https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533)
 1. [10 Steps to Making Machine Learning Operational. Cloudera White Paper](https://www.cloudera.com/content/dam/www/marketing/resources/whitepapers/10-steps-to-making-ml-operational.pdf)
 1. [MLOps is Not Enough. The Need for an End-to-End Data Science Lifecycle Process.](https://techcommunity.microsoft.com/t5/azure-ai/mlops-is-not-enough/ba-p/1386789)
-1. [Data Science Lifecycle Repository Template](https://github.com/dslp/dslp-repo-template)
-1. [Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow. ](https://github.com/aronchick/MLOps-pipeline)
+1. [Data Science Lifecycle Repository Template](https://github.com/dslp/dslp-repo-template){:target="_blank"}
+1. [Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow. ](https://github.com/aronchick/MLOps-pipeline){:target="_blank"}
 1. [Nitpicking Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
 1. [The Best Tools, Libraries, Frameworks and Methodologies that Machine Learning Teams Actually Use – Things We Learned from 41 ML Startups](https://neptune.ai/blog/tools-libraries-frameworks-methodologies-ml-startups-roundup)
-1. [Software Engineering for AI/ML - An Annotated Bibliography](https://github.com/ckaestne/seaibib)
+1. [Software Engineering for AI/ML - An Annotated Bibliography](https://github.com/ckaestne/seaibib){:target="_blank"}
 1. [Intelligent System. Machine Learning in Practice](https://intelligentsystem.io/)
-1. [CMU 17-445/645: Software Engineering for AI-Enabled Systems (SE4AI)](https://github.com/ckaestne/seai/)
+1. [CMU 17-445/645: Software Engineering for AI-Enabled Systems (SE4AI)](https://github.com/ckaestne/seai/){:target="_blank"}
 1. [Machine Learning is Requirements Engineering](https://link.medium.com/l7akzjR826)
 1. [Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
-1. [Machine Learning Ops. A collection of resources on how to facilitate Machine Learning Ops with GitHub.](http://mlops-github.com/)
+1. [Machine Learning Ops. A collection of resources on how to facilitate Machine Learning Ops with GitHub.](http://mlops-github.com/){:target="_blank"}
 1. [Task Cheatsheet for Almost Every Machine Learning Project A checklist of tasks for building End-to-End ML projects](https://towardsdatascience.com/task-cheatsheet-for-almost-every-machine-learning-project-d0946861c6d0)
 1. [Web services vs. streaming for real-time machine learning endpoints](https://towardsdatascience.com/web-services-vs-streaming-for-real-time-machine-learning-endpoints-c08054e2b18e)
 1. [How PyTorch Lightning became the first ML framework to run continuous integration on TPUs](https://medium.com/pytorch/how-pytorch-lightning-became-the-first-ml-framework-to-runs-continuous-integration-on-tpus-a47a882b2c95)
@@ -141,7 +141,7 @@
 1. [Blog about ML in production (by maiot.io)](https://blog.maiot.io/)
 1. Back to the Machine Learning fundamentals: How to write code for Model deployment. [Part 1](https://medium.com/@ivannardini/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-1-3-4b05deda1cd1), [Part 2](https://medium.com/@ivannardini/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-2-3-9632d5a43f98), [Part 3](https://medium.com/@ivannardini/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-3-3-fb85102bebb2)
 1. [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-1. [ML Engineering on Google Cloud Platform (hands-on labs and code samples)](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
+1. [ML Engineering on Google Cloud Platform (hands-on labs and code samples)](https://github.com/GoogleCloudPlatform/mlops-on-gcp){:target="_blank"}
 1. [Deep Reinforcement Learning in Production. The use of Reinforcement Learning to Personalize User Experience at Zynga](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2)
 1. [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 1. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
@@ -155,7 +155,7 @@
 1. [A Brief Guide to Running ML Systems in Production Best Practices for Site Reliability Engineers](https://www.oreilly.com/content/a-brief-guide-to-running-ml-systems-in-production/)
 1. [AI engineering practices in the wild - SIG | Getting software right for a healthier digital world](https://www.softwareimprovementgroup.com/resources/ai-engineering-practices-in-the-wild/)
 1. [SE-ML | The 2020 State of Engineering Practices for Machine Learning](https://se-ml.github.io/report2020)
-1. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml)
+1. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml){:target="_blank"}
 1. [Sampling isn’t enough, profile your ML data instead](https://towardsdatascience.com/sampling-isnt-enough-profile-your-ml-data-instead-6a28fcfb2bd4?source=friends_link&sk=5af46143562d348b182c449265ed54fb)
 1. [Reproducibility in ML: why it matters and how to achieve it](https://determined.ai/blog/reproducibility-in-ml/)
 1. [12 Factors of reproducible Machine Learning in production](https://blog.maiot.io/12-factors-of-ml-in-production/)
@@ -170,7 +170,7 @@
 1. [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist) 
 1. [Global MLOps and ML tools landscape (by MLReef)](https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape)
 1. [Why all Data Science teams need to get serious about MLOps](https://towardsdatascience.com/why-data-science-teams-needs-to-get-serious-about-mlops-56c98e255e20)  
-1. [MLOps Values (by Bart Grasza)](https://gist.github.com/bartgras/4ab9c716167b5d9aee6a222f7301ac60)
+1. [MLOps Values (by Bart Grasza)](https://gist.github.com/bartgras/4ab9c716167b5d9aee6a222f7301ac60){:target="_blank"}
 1. [Machine Learning Systems Design (by Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 1. [Designing an ML system (Stanford | CS 329 | Chip Huyen)](https://docs.google.com/presentation/d/13a5B2HeK9Id59zy3oNJDv5_ksDvzbGmNLx4zumkimZM/edit?usp=sharing)
 1. [How COVID-19 Has Infected AI Models (about the data drift or model drift concept)](https://www.dominodatalab.com/blog/how-covid-19-has-infected-ai-models/)
@@ -195,8 +195,8 @@
 1. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 1. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
 1. [Feature Stores for ML](http://featurestore.org/)
-1. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks)
-1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast)
+1. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks){:target="_blank"}
+1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast){:target="_blank"}
 1. [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
 1. [ML Feature Stores: A Casual Tour](https://medium.com/@farmi/ml-feature-stores-a-casual-tour-fc45a25b446a)
 1. [Comprehensive List of Feature Store Architectures for Data Scientists and Big Data Professionals](https://hackernoon.com/the-essential-architectures-for-every-data-scientist-and-big-data-engineer-f21u3e5c)
@@ -222,7 +222,7 @@
 1. [Data Orchestration — A Primer](https://medium.com/memory-leak/data-orchestration-a-primer-56f3ddbb1700)
 1. [4 Data Trends to Watch in 2020](https://medium.com/memory-leak/4-data-trends-to-watch-in-2020-491707902c09)
 1. [CSE 291D / 234: Data Systems for Machine Learning](http://cseweb.ucsd.edu/classes/fa20/cse291-d/index.html)
-1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap)
+1. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap){:target="_blank"}
 1. [Continuous Integration for your data with GitHub Actions and Great Expectations. One step closer to CI/CD for your data pipelines](https://greatexpectations.io/blog/github-actions/)
 1. [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 1. [Awesome Data Engineering. Learning path and resources to become a data engineer](https://awesomedataengineering.com/)
@@ -271,7 +271,7 @@
 1. [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 1. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 1. [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
-1. [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
+1. [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml)){:target="_blank"}
 1. [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
 1. [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
 1. [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
@@ -364,14 +364,14 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 1. [Best Resources to Learn Machine Learning](http://www.trainindatablog.com/best-resources-to-learn-machine-learning/)
-1. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+1. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow){:target="_blank"}
 1. ["Papers with Code" - Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 1. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
 1. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists. By Alice Zheng, Amanda Casari](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles-ebook/dp/B07BNX4MWC)
 1. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 1. [O’Reilly: The road to Software 2.0](https://www.oreilly.com/radar/the-road-to-software-2-0/)
-1. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
-1. [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)
+1. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning){:target="_blank"}
+1. [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml){:target="_blank"}
 1. [Deep Learning for Anomaly Detection](https://ff12.fastforwardlabs.com/)
 1. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 1. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
@@ -384,19 +384,19 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Book: Hutter, Frank, Lars Kotthoff, and Joaquin Vanschoren. "Automated Machine Learning". Springer,2019.](https://originalstatic.aminer.cn/misc/pdf/Hutter-AutoML_Book_compressed.pdf)
 1. [ML resources by topic, curated by the community. ](https://madewithml.com/topics/)
 1. [An Introduction to Machine Learning Interpretability, by Patrick Hall, Navdeep Gill, 2nd Edition. O'Reilly 2019](https://learning.oreilly.com/library/view/an-introduction-to/9781098115487/)
-1. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python)
+1. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python){:target="_blank"}
 1. [Paper: "Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence", by Sebastian Raschka, Joshua Patterson, and Corey Nolet. 2020](https://arxiv.org/pdf/2002.04803.pdf)
 1. [Distill: Machine Learning Research](https://distill.pub/)
 1. [AtHomeWithAI: Curated Resource List by DeepMind](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
-1. [Awesome Data Science](https://github.com/academic/awesome-datascience)
+1. [Awesome Data Science](https://github.com/academic/awesome-datascience){:target="_blank"}
 1. [Intro to probabilistic programming. A use case using Tensorflow-Probability (TFP)](https://towardsdatascience.com/intro-to-probabilistic-programming-b47c4e926ec5)
 1. [Dive into Snorkel: Weak-Superversion on German Texts. inovex Blog](https://www.inovex.de/blog/snorkel-weak-superversion-german-texts/)
 1. [Dive into Deep Learning. An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations](http://d2l.ai/)
-1. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources)
+1. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources){:target="_blank"}
 1. [Set of illustrated Machine Learning cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 1. ["Machine Learning Bookcamp" by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp)
 1. [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
-1. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+1. [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet){:target="_blank"}
 1. [Stateoftheart AI. An open-data and free platform built by the research community to facilitate the collaborative development of AI](https://www.stateoftheart.ai/)
 1. [Online Machine Learning Courses: 2020 Edition](https://www.blog.confetti.ai/post/best-online-machine-learning-courses-2020-edition)
 1. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
@@ -404,7 +404,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Causality for Machine Learning](https://ff13.fastforwardlabs.com/FF13-Causality_for_Machine_Learning-Cloudera_Fast_Forward.pdf)
 1. [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 1. [Causal Inference](https://mixtape.scunning.com/index.html)
-1. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md)
+1. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md){:target="_blank"}
 1. [Learning from data. Caltech](http://work.caltech.edu/lectures.html)
 1. [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/#)
 
@@ -419,7 +419,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
 1. [State of DevOps 2019](https://research.google/pubs/pub48455/)
-1. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
+1. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml){:target="_blank"}
 1. [School of SRE](https://linkedin.github.io/school-of-sre/)
 1. [10 Laws of Software Engineering That People Ignore](https://www.indiehackers.com/post/10-laws-of-software-engineering-that-people-ignore-e3439176dd)
 1. [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](http://awesome-scalability.com/)
@@ -482,7 +482,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 1. [Managing the Risks of Adopting AI Engineering](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
 1. [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
-1. [Collection of articles listing reasons why data science projects fail](https://github.com/xLaszlo/datascience-fails)
+1. [Collection of articles listing reasons why data science projects fail](https://github.com/xLaszlo/datascience-fails){:target="_blank"}
 1. [How to Choose Your First AI Project by Andrew Ng](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)
 1. [How to Set AI Goals](https://www.oreilly.com/radar/how-to-set-ai-goals/)
 1. [Expanding AI's Impact With Organizational Learning](https://sloanreview.mit.edu/projects/expanding-ais-impact-with-organizational-learning/)
@@ -494,7 +494,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <a name="ml-governance"></a>
 # Model Governance, Ethics, Responsible AI
 
-This topic is extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
+This topic is extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance){:target="_blank"}
 
 
 <a name="teams"></a>
